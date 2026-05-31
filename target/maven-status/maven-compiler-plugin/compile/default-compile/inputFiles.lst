@@ -1,0 +1,8 @@
+/2026-dev/2026-mid-1-mics-shared/src/main/java/com/vjv/rest/common/AbstractRest.java
+/2026-dev/2026-mid-1-mics-shared/src/main/java/com/vjv/rest/common/CommonRest.java
+/2026-dev/2026-mid-1-mics-shared/src/main/java/com/vjv/rest/common/HandleError.java
+/2026-dev/2026-mid-1-mics-shared/src/main/java/com/vjv/rest/common/HandleSuccess.java
+/2026-dev/2026-mid-1-mics-shared/src/main/java/com/vjv/rest/dto/BaseRes.java
+/2026-dev/2026-mid-1-mics-shared/src/main/java/com/vjv/rest/dto/BaseResponseData.java
+/2026-dev/2026-mid-1-mics-shared/src/main/java/com/vjv/rest/dto/ErrorData.java
+/2026-dev/2026-mid-1-mics-shared/src/main/java/com/vjv/rest/dto/SuccessData.java
